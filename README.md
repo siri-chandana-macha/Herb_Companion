@@ -1,16 +1,2 @@
-# pj
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Herb Companion 🌿
+Herb Companion  is  guide designed to simplify the process of growing, caring for, and using herbs for culinary, medicinal, and wellness purposes. It offers detailed information on popular herbs, including their uses, growth requirements, and care tips, helping users choose the right plants for their needs. Along with educational content, it provides a convenient shopping section for gardening tools, seeds, and live herbs, making it easy to access all the essentials for successful herb gardening. Focused on sustainability and wellness, Herb Companion encourages users to connect with nature, grow fresh herbs, and enjoy a fulfilling gardening experience.
