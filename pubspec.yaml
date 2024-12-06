@@ -1,0 +1,57 @@
+name: pj
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  # Ensures that the Material Icons font is included
+  uses-material-design: true
+
+  # Declaring assets
+  assets:
+    - assets/logo.png
+    - assets/bg.jpg
+    - assets/about.jpg
+    
+      #plants
+    - assets/aloe vera.jpeg
+    - assets/tulsi.jpg
+    - assets/ashwaganda.jpg
+    - assets/betel.jpg
+    - assets/cabbage.jpg
+    - assets/coriander.jpeg
+    - assets/curryleaves.jpg
+    - assets/fenugreek.jpg
+    - assets/hibiscus.jpg
+    - assets/mint.jpeg
+    - assets/sorrel.jpeg
+    - assets/spinach.jpeg
+    # shop
+    - assets/gloves.jpg
+    - assets/fertilizer.jpg
+    - assets/grow_bags.jpg
+    - assets/hand_trowel.jpg
+    - assets/pest_spray.jpg
+    - assets/spray_bottle.jpg
+    - assets/terracotta_pots.jpg
+    - assets/redsoil.jpeg
+    - assets/pruning_shears.jpg
+    - assets/tools_combo.jpg
+    - assets/hedge_trimmer.jpg
+    - assets/wheel_barrow.jpg
+    
